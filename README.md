@@ -1,4 +1,4 @@
 # life
 life小生活
 
-![image-20200504133945522](C:\Users\web\AppData\Roaming\Typora\typora-user-images\image-20200504133945522.png)
+![https://github.com/1204478546LGL/life/blob/master/sql/life.png](https://github.com/1204478546LGL/life/blob/master/sql/life.png)
